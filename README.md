@@ -28,5 +28,5 @@ It needs to define the lambda expressions cleverly to succeed.
 
 
 
-* workshop 
+* workshop
  - Lambda practice done (2022-11-27)
